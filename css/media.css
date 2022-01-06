@@ -1,0 +1,206 @@
+@media (min-width: 1700px) {
+    .container{
+        max-width: 1400px;
+    }
+}
+@media (min-width: 2000px) {
+    .container{
+        max-width: 1900px;
+    }
+}
+@media (max-width: 1024px) {
+    .about_img{
+        
+        position: relative;
+        left: 300px;
+    }
+    
+    .about_content .about_text h2 {
+        font-size: 32px;
+    }
+        
+    .about_content .about_text h3{
+        font-size: 14px;
+    }
+    
+    .about_header .btn_language a{
+        font-size: 14px;
+    }
+    
+    .about_header .btn_language .LActive:after{
+        width: 22px;
+    }
+    
+    .about_header h2{
+        font-size: 14px;
+    }
+    
+    .container {
+        max-width: 960px;
+    }
+    
+    .about_content{
+        margin-top: 100px;
+    }
+    
+    .about_content .about_text a{
+        font-size: 14px;
+    }
+    
+    .about_content .about_text h3{
+        margin-top: 10px;
+        margin-bottom: 35px;
+    }
+    
+    
+    .btn_bottom{
+        width: 32px;
+    }
+    
+    .block_about{
+        height: 100vh;
+    }
+    
+    .about_content .about_img .img_gor .block_about_portfolio .port_text h2{
+        font-size: 14px;
+    }
+}
+
+@media (max-width: 768px){
+    
+    .block_about {
+        height: 70vh;
+    }
+    
+    .about_content .about_img .img_gor .block_about_portfolio .port_text h2{
+        font-size: 12px;
+    }
+    .about_img{
+        left: 335px;
+    }
+    
+    .about_content .about_text h2{
+        font-size: 28px;
+    }
+    
+    .about_content .about_text h3{
+        font-size: 12px;
+    }
+    
+    .about_img{
+        width: 55%;
+    }
+    
+    
+    .about_text{
+        width: 45%;
+    }
+    
+    
+    .about_header .btn_language a{
+        font-size: 12px;
+    }
+    
+    
+    .about_header .btn_language .LActive:after{
+        width: 19px;
+    }
+    
+    .about_header h2{
+        font-size: 12px;
+    }  
+}
+
+@media (max-width: 700px){
+    .nav{
+        display: none;
+    }
+    
+    .header_social{
+        display: none;
+    }
+}
+
+
+
+@media (max-width: 426px){
+    
+    
+    .about_img{
+        display: none;
+    }
+    
+    .about_text{
+        width: 100%;
+    }
+    
+    
+    .block_about {
+        height: 60vh;
+    }
+    
+    .about_content{
+        margin-top: 50px;
+    }
+    
+    .about_content .about_text a{
+        font-size: 13px;
+    }
+    
+    .about_content .about_text h3{
+        font-size: 13px;
+    }
+    
+    .about_content .about_text h2{
+        font-size: 20px;
+    }
+    
+    .about_header h2{
+        font-size: 13px;
+    }
+    
+    .about_header .btn_language a{
+        font-size: 13px;
+    }
+    
+/*header*/
+    
+    .menu{
+        display: block;
+    }
+/*header*/
+}
+
+
+@media (max-width: 376px){
+    .block_about {
+        height: 50vh;
+    }
+}
+
+
+@media (max-width: 320px){
+    .block_about {
+        height: 60vh;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
